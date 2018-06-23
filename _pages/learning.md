@@ -4,5 +4,6 @@ title: Learning
 permalink: /learning/
 ---
 
-Start here with C++!
-[C++]({{ "/learning/cpp/contents/" | relative_url }})
+Start here with:
+
+[C++]({{ "/learning/cpp/contents" | relative_url }})
